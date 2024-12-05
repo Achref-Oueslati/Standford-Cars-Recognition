@@ -6,7 +6,7 @@ This project implements a deep learning solution for classifying car images into
 ---
 
 ## **Dataset**
-- **Source**: The dataset contains **1,652 images** of 100 class but for this project i only used and organized 20 classes, each representing a car model (e.g., *GMC Canyon Extended Cab 2012*, *Lamborghini Gallardo LP 570-4 Superleggera 2012*).
+- **Source**: The dataset contains **1,652 images** of 196 class but for this project i only used and organized 20 classes, each representing a car model (e.g., *GMC Canyon Extended Cab 2012*, *Lamborghini Gallardo LP 570-4 Superleggera 2012*).
 - **Structure**: Each class is stored in a separate folder, with images in `.jpg` format.
 
 ---
