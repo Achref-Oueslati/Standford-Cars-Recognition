@@ -65,7 +65,10 @@ car-classification/
 └── logs/                       # TensorBoard logs for visualization
 ```
 
----
+To install the dependencies on a new system:
+```
+pip install -r requirements.txt
+```
 
 ## **Future Improvements**
 - Expand the dataset with more images to improve generalization.
